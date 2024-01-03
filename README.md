@@ -9,8 +9,7 @@ The Commercial Management app is a mobile application designed for efficient man
 - Node.js
 - Express.js
 - Other Back-End technologies or libraries
-- [Add any additional backend technologies or libraries]
-
+  
 ### Frontend
 
 - React Native
