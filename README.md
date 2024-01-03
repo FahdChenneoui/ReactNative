@@ -8,7 +8,7 @@ The Commercial Management app is a mobile application designed for efficient man
 
 - Node.js
 - Express.js
-- Other Back-End technologies or libraries
+- Other Back-End technologies and libraries
   
 ### Frontend
 
@@ -16,4 +16,4 @@ The Commercial Management app is a mobile application designed for efficient man
 - Cloudinary
 - Redux Toolkit
 - Context API
-- Other Front-End technologies or libraries
+- Other Front-End technologies and libraries
